@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_category_disaster">
+        <item>Angin Kencang</item>
+        <item>Banjir</item>
+        <item>Kebakaran</item>
+        <item>Tanah Longsor</item>
+        <item>Gempa Bumi</item>
+        <item>Tsunami</item>
+        <item>Kekeringan</item>
+        <item>Gelombang Pasang / Abrasi</item>
+        <item>Laka Kerja</item>
+        <item>Laka Laut</item>
+        <item>Penemuan Mayat</item>
+        <item>Pohon Tumbang</item>
+    </string-array>
+</resources>

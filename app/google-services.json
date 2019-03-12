@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "292399395529",
+    "firebase_url": "https://bpbdkupang.firebaseio.com",
+    "project_id": "bpbdkupang",
+    "storage_bucket": "bpbdkupang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292399395529:android:5f688a6b39ed221c",
+        "android_client_info": {
+          "package_name": "com.kupang.androidbpbd.bpbdkupang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292399395529-c822e63vio02b5gi5etuv15q92b4ia02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmN_3bT-IRyMotRLakbb76WGz9V3BH2Wo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
